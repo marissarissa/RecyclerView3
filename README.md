@@ -1,5 +1,5 @@
 ## RecyclerView3
-* Nama Paket : id.sch.smktelkom_mlg.learn.recyclerview3
+
 
 ## Identitas
 * Nama  : Marissa Nur Aini
